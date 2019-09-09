@@ -22,10 +22,10 @@ title: Amarjeet
 # Information for web crawlers / Google, all of them optional
 # 'description' and 'keywords' simply set the corresponding meta tags,
 # 'crawl' is the 'Robots' tag http://www.robotstxt.org/meta.html
-robots:
-    description: One line of text describing the content of the page in less than 140 characters.
-    keywords: foo, bar, baz
-    crawl: index,follow
+#robots:
+#    description: One line of text describing the content of the page in less than 140 characters.
+#    keywords: foo, bar, baz
+#    crawl: index,follow
 
 # website address when deployed, also given as canonical link
 url: "https://sahooamarjeet.github.io/amarjeet"
