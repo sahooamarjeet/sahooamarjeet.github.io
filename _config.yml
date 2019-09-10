@@ -40,7 +40,7 @@ baseurl: "/"
 # In order to comply with EU cookie law, enable 'cookieconsent' to show a little popup asking users to acknowledge the GA cookies.
 # Also, some places require you to anonymize the users' IPs, which can be enabled via 'anonymizeip' below. You normally want that.
 # https://support.google.com/analytics/answer/2763052
-ga:
+#ga:
 #ga:
 #    account:
 #    cookieconsent: true
@@ -50,7 +50,7 @@ ga:
 # A picture of you, square(!), at least 180x180 pixels, more is better. Recommended file size < 100 KB.
 # Leave empty for generic placeholder image.
 # You can use your GitHub image:
-avatar: "https://avatars2.githubusercontent.com/u/7068680?s=400&u=fe17bf93932e1cd88cd8e4fc86be6095c7f3e697&v=4"
+#avatar: "https://avatars2.githubusercontent.com/u/7068680?s=400&u=fe17bf93932e1cd88cd8e4fc86be6095c7f3e697&v=4"
 #avatar: "images/jonathan_doe.jpg"
 #avatar:
 
@@ -113,8 +113,8 @@ links:
 
 # Extra HTML which will be displayed below the links. Keep it short. Leave empty to disable.
 #extra_html:
-extra_html: >
-    Any (multiline) text containing simple HTML,
-    such as links or ... lorem ipsum.
+#extra_html: >
+#    Any (multiline) text containing simple HTML,
+#    such as links or ... lorem ipsum.
 
 #EOF
